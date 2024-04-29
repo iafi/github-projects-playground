@@ -1,1 +1,4 @@
 node_modules
+_DS_Store
+_tap
+npm-debug.log
